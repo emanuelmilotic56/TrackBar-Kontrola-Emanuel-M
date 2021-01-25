@@ -1,0 +1,10 @@
+C:\Users\Milotić\source\repos\TrackBar Kontrola-Emanuel M\TrackBar Kontrola-Emanuel M\bin\Debug\TrackBar Kontrola-Emanuel M.exe.config
+C:\Users\Milotić\source\repos\TrackBar Kontrola-Emanuel M\TrackBar Kontrola-Emanuel M\bin\Debug\TrackBar Kontrola-Emanuel M.exe
+C:\Users\Milotić\source\repos\TrackBar Kontrola-Emanuel M\TrackBar Kontrola-Emanuel M\bin\Debug\TrackBar Kontrola-Emanuel M.pdb
+C:\Users\Milotić\source\repos\TrackBar Kontrola-Emanuel M\TrackBar Kontrola-Emanuel M\obj\Debug\TrackBar Kontrola-Emanuel M.csprojAssemblyReference.cache
+C:\Users\Milotić\source\repos\TrackBar Kontrola-Emanuel M\TrackBar Kontrola-Emanuel M\obj\Debug\TrackBar_Kontrola_Emanuel_M.Form1.resources
+C:\Users\Milotić\source\repos\TrackBar Kontrola-Emanuel M\TrackBar Kontrola-Emanuel M\obj\Debug\TrackBar_Kontrola_Emanuel_M.Properties.Resources.resources
+C:\Users\Milotić\source\repos\TrackBar Kontrola-Emanuel M\TrackBar Kontrola-Emanuel M\obj\Debug\TrackBar Kontrola-Emanuel M.csproj.GenerateResource.cache
+C:\Users\Milotić\source\repos\TrackBar Kontrola-Emanuel M\TrackBar Kontrola-Emanuel M\obj\Debug\TrackBar Kontrola-Emanuel M.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\TrackBar Kontrola-Emanuel M\TrackBar Kontrola-Emanuel M\obj\Debug\TrackBar Kontrola-Emanuel M.exe
+C:\Users\Milotić\source\repos\TrackBar Kontrola-Emanuel M\TrackBar Kontrola-Emanuel M\obj\Debug\TrackBar Kontrola-Emanuel M.pdb
